@@ -9,7 +9,7 @@ import javax.persistence.Id;
 
 /**
  * Created by jt on 9/24/17.
- */
+
 @Data
 @Entity
 public class Category {
@@ -20,3 +20,4 @@ public class Category {
     private String name;
 
 }
+ */
